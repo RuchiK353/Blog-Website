@@ -1,4 +1,3 @@
-[# Blog-Website](https://ruchik353.github.io/Blog-Website/)
 The Milky Way Galaxy Webpage 🌌
 Overview
 This project presents an interactive and visually appealing webpage about the Milky Way Galaxy. The webpage is designed using modern HTML, CSS, and responsive design principles, creating an engaging experience for users.
@@ -17,7 +16,7 @@ Usage
 Usage
 To run this webpage locally:
 - Clone the repository:
-git clone <your-repo-url>
+git clone ](https://ruchik353.github.io/Blog-Website/)
 - Open the index.html file in a web browser.
 Future Enhancements
 🔹 Add animations for a more immersive experience.
